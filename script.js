@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const imageUrls = [
        { url: "https://picsum.photos/id/237/200/300" },
   { url: "https://picsum.photos/id/238/200/300" },
-  { url: "https://picsum.photos/id/239/200/300" },/ This one is intentionally invalid for error handling
+  { url: "https://picsum.photos/id/239/200/300" },// This one is intentionally invalid for error handling
     ];
 
     // Function to download an image
